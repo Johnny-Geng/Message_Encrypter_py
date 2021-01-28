@@ -1,4 +1,4 @@
-# Message_Encrypter
+# Message_Encrypter_py
 This simple program uses a shifted alphabet to encrypt a message. <br>
 It can also automatically decrypt the encrypted message and compare the two.
 
